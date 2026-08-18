@@ -10,7 +10,7 @@ import Login from './Pages/Login'
 import Dashboard from './Pages/Dashboard'
 import Projects from './Pages/Projects'
 import Tasks from './Pages/Tasks'
-import ProtectedRoute from './components/ProtectedRoute'
+import ProtectedRoute from './Components/ProtectedRoute'
 
 function App() {
   return (
