@@ -7,8 +7,8 @@ const connectDB = require("./config/db");
 
 const authRoutes = require("./routes/authRoutes");
 const testRoutes = require("./routes/testRoutes");
-const projectRoutes = require("./routes/ProjectRoutes");
-const taskRoutes = require("./routes/Taskroutes");
+const projectRoutes = require("./routes/projectRoutes");
+const taskRoutes = require("./routes/taskRoutes");
 
 dotenv.config();
 
